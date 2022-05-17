@@ -1,0 +1,29 @@
+[04:14:25] [Craft Scheduler Thread - 668/INFO]: [Vault] Checking for Updates ... 
+[04:14:25] [Craft Scheduler Thread - 668/INFO]: [Vault] No new version available
+[10:14:25] [Craft Scheduler Thread - 673/INFO]: [Vault] Checking for Updates ... 
+[10:14:25] [Craft Scheduler Thread - 673/INFO]: [Vault] No new version available
+[16:14:25] [Craft Scheduler Thread - 679/INFO]: [Vault] Checking for Updates ... 
+[16:14:25] [Craft Scheduler Thread - 679/INFO]: [Vault] No new version available
+[21:46:30] [Server thread/INFO]: Stopping the server
+[21:46:30] [Server thread/INFO]: Stopping server
+[21:46:30] [Server thread/INFO]: [LPC] Disabling LPC v3.5.0
+[21:46:30] [Server thread/INFO]: [LogBlock] Disabling LogBlock v1.17.0.0-SNAPSHOT (build #161)
+[21:46:30] [Server thread/INFO]: [LogBlock] Waiting for consumer ...
+[21:46:30] [Server thread/INFO]: LogBlock-Connection-Pool - Shutdown initiated...
+[21:46:30] [Server thread/INFO]: LogBlock-Connection-Pool - Shutdown completed.
+[21:46:30] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[21:46:30] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.1.10
+[21:46:30] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.15
+[21:46:30] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.18
+[21:46:30] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[21:46:30] [Server thread/INFO]: [LuckPerms] Closing storage...
+[21:46:30] [Server thread/INFO]: [LuckPerms] Goodbye!
+[21:46:30] [Server thread/INFO]: Saving players
+[21:46:31] [Server thread/INFO]: Saving worlds
+[21:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sandalki]'/minecraft:overworld
+[21:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sandalki_nether]'/minecraft:the_nether
+[21:46:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sandalki_the_end]'/minecraft:the_end
+[21:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (sandalki): All chunks are saved
+[21:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
